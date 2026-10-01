@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Game Wiki framework placeholder</title>
+  <desc id="desc">A neutral indigo gradient with the words Game Wiki.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <circle cx="1000" cy="90" r="260" fill="#818cf8" opacity=".18"/>
+  <circle cx="150" cy="590" r="300" fill="#22d3ee" opacity=".1"/>
+  <text x="600" y="300" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="92" font-weight="800">GAME WIKI</text>
+  <text x="600" y="380" text-anchor="middle" fill="#c7d2fe" font-family="system-ui,sans-serif" font-size="32">Open-source Astro framework</text>
+</svg>

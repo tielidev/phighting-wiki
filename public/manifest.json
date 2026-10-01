@@ -1,0 +1,9 @@
+{
+  "name": "Game Wiki",
+  "short_name": "Game Wiki",
+  "description": "A fast, searchable, community-maintained game knowledge base.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1"
+}
